@@ -1,4 +1,4 @@
 module.exports = {
-  key: "080d161e4950a4d7a9032fc79e1dac97",
+  // key: paste your own api here you can get your api from the below link
   base: "https://api.openweathermap.org/data/2.5/",
 };
