@@ -1,11 +1,4 @@
-/*--
-	Author: W3layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 
-/*-- Reset Code --*/
 
 html,
 body,
@@ -128,51 +121,51 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-/* start editing from here */
+
 a {
   text-decoration: none;
 }
 .txt-rt {
   text-align: right;
-} /* text align right */
+} 
 .txt-lt {
   text-align: left;
-} /* text align left */
+} 
 .txt-center {
   text-align: center;
-} /* text align center */
+} 
 .float-rt {
   float: right;
-} /* float right */
+} 
 .float-lt {
   float: left;
-} /* float left */
+} 
 .clear {
   clear: both;
-} /* clear float */
+} 
 .pos-relative {
   position: relative;
-} /* Position Relative */
+} 
 .pos-absolute {
   position: absolute;
-} /* Position Absolute */
+} 
 .vertical-base {
   vertical-align: baseline;
-} /* vertical align baseline */
+} 
 .vertical-top {
   vertical-align: top;
-} /* vertical align top */
+} 
 .underline {
   padding-bottom: 5px;
   border-bottom: 1px solid #eee;
   margin: 0 0 20px 0;
-} /* Add 5px bottom padding and a underline */
+} 
 nav.vertical ul li {
   display: block;
-} /* vertical menu */
+} 
 nav.horizontal ul li {
   display: inline-block;
-} /* horizontal menu */
+} 
 img {
   max-width: 100%;
 }
@@ -188,9 +181,7 @@ img {
   letter-spacing: 1px;
 }
 
-/*-- //Reset Code --*/
 
-/*-- Index-Page-Styling --*/
 
 body {
   background: url("./images/background.jpg");
@@ -314,7 +305,7 @@ div#txt {
 
 .forecast-icon {
   padding: 25px 0;
-  /* background: white; */
+  
 }
 
 .today-weather h3 {
@@ -360,15 +351,12 @@ div#txt {
 .copyright p a {
   color: #fff;
 }
-/*--w3layouts--*/
-/*--agileits--*/
+
 .copyright p a:hover {
   color: #ffeb3b;
 }
 
-/*-- //Index-Page-Styling --*/
 
-/*-- Responsive Code --*/
 
 @media screen and (max-width: 1920px) {
   .container {
@@ -404,8 +392,7 @@ div#txt {
   h1 {
     font-size: 45px;
   }
-  /*--w3layouts--*/
-  /*--agileits--*/
+ 
 }
 
 @media screen and (max-width: 800px) {
@@ -454,8 +441,7 @@ div#txt {
   div#txt {
     font-size: 25px;
   }
-  /*--w3layouts--*/
-  /*--agileits--*/
+ 
   .dmy {
     padding-top: 17px;
   }
@@ -504,8 +490,7 @@ div#txt {
 }
 
 @media screen and (max-width: 480px) {
-  /*--w3layouts--*/
-  /*--agileits--*/
+ 
   h1 {
     font-size: 28px;
     letter-spacing: 2px;
@@ -607,7 +592,7 @@ div#txt {
   }
 }
 
-/*-- //Responsive Code --*/
+
 .cityHead {
   display: flex;
   align-items: center;
